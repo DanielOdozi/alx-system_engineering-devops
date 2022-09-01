@@ -26,9 +26,9 @@ Task 12 - creates a directory called my_dir with permissions 751
 
 Task 13 - change group owner to school for the file hello
 
-Task 14 - change owner to betty and the group owner to school
+Task 14 - change owner to vincent and the group owner to staff
 
-Task 15 - change owner and group owner of file to betty and school
+Task 15 - change owner and group owner of file to vincent and staff
 
 Task 16 - change the owner of the file if file is owned by user guillaume
 
