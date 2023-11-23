@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# This script is displaying "Best School" 10 times
+
+text="Best School"
+newtext="Hi"
+count=1
+
+while [ $count -le 10 ]; do
+    if [ $count -eq 9 ]; then
+        echo "$text"
+        echo "$newtext"
+    else
+        echo "$text"
+    fi
+    ((count++))
+done
