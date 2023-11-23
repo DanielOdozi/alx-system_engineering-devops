@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+# This script is checking if school file exists
 file="school"
 
 if [ -e "$file" ]; then
