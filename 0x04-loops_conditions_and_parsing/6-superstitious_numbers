@@ -9,12 +9,15 @@ count=1
 while [ $count -le 20 ]; do
     case $count in
         4)
+            echo "$count"
             echo "$china"
             ;;
         9)
+            echo "$count"
             echo "$japan"
             ;;
         17)
+            echo "$count"
             echo "$italy"
             ;;
         *)
